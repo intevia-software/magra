@@ -18,7 +18,7 @@ const Hero = () => {
                                 <hr className="w-full bg-gray-100 mx-10" />
 
                             </div>
-                            <p className="w-4/5 lg:w-1/2 text-base lg:text-2xl text-gray-100 mx-auto mt-16 open-script">Create a beautiful and stylish presentation page foryour company, agency, personal portfolio or startup.</p>
+                            <p className="w-full lg:w-21/2 text-base lg:text-xl p-5 text-gray-100 mx-auto mt-16 open-light">Create a beautiful and stylish presentation page foryour company, agency, personal portfolio or startup.</p>
                         </div>
                     </Parallax>
                 </div>
