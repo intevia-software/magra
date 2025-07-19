@@ -1,9 +1,14 @@
 
-.header-home{
-  background-image: url('./media/img/wall.png');
+.header-wall{
+  background-image: url('./media/img/wall.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  /* height: 160vh; */
 }
+
+
+.shadow-perso{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
 
